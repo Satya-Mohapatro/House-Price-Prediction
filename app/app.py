@@ -4,7 +4,7 @@ import pandas as pd
 import joblib
 
 # Load pipeline
-model_pipeline = joblib.load('../models/linreg_model.pkl')
+model_pipeline = joblib.load('models/linreg_model.pkl')
 
 # Title
 st.title("House Price Prediction")
