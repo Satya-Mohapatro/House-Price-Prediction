@@ -1,5 +1,5 @@
 #  House Price Prediction with Linear Regression
-
+![SS](SS.png)
 Predicting house prices using **Linear Regression** with a clean **scikit-learn pipeline** and deploying as a **Streamlit app**.
 
 ---
